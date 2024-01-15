@@ -1,5 +1,7 @@
 ## Levitator RL
 
+Gorkov potential, Singular value decomposition (SVD)
+
 ### Installation
 
 Install PyTorch from https://pytorch.org/
